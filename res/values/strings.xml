@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ping Pong v1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Welcome_txt">Ping Pong</string>
+    <string name="Game1">Level 1</string>
+    <string name="Game2">Level 2</string>
+
+</resources>
